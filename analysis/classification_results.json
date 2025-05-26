@@ -1,0 +1,594 @@
+[
+  {
+    "question": "What is Search@UW?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "The question asks for a straightforward fact about a UWM-specific service (Search@UW), which can be answered with a single, definitive description from UWM library resources."
+    }
+  },
+  {
+    "question": "What are \"scholarly sources\"?",
+    "classification": {
+      "category": "GENERAL_QA",
+      "confidence": 0.98,
+      "explanation": "The question asks for a general definition of scholarly sources, not specific to UWM policies or resources."
+    }
+  },
+  {
+    "question": "How can I search for items that are only in the Curriculum Collection at UW-Milwaukee?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "This question asks for a straightforward, factual procedure specific to UWM\u2019s library system (Curriculum Collection), requiring no extensive strategy or AI reasoning."
+    }
+  },
+  {
+    "question": "Where can I find picture books?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "The question asks for a specific UWM library resource location (picture books), which can be answered with a straightforward fact from UWM library information."
+    }
+  },
+  {
+    "question": "How do I find materials the Library doesn't have?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.85,
+      "explanation": "The question asks for a direct, factual procedure using UWM library services (e.g., Interlibrary Loan, WorldCat) without requiring broader strategic planning or AI-driven research assistance."
+    }
+  },
+  {
+    "question": "When is the library open?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "As a direct question about UWM library hours, it requires a straightforward factual answer from UWM resources rather than strategic planning or general information."
+    }
+  },
+  {
+    "question": "What is open access and how do I know if the article is open access?",
+    "classification": {
+      "category": "GENERAL_QA",
+      "confidence": 0.92,
+      "explanation": "This is a general question about the concept and identification of open access articles, not requiring UWM-specific policies or tailored research strategies."
+    }
+  },
+  {
+    "question": "Do I need specific software to read an eBook?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.85,
+      "explanation": "Although it concerns general eBook reading software, it\u2019s asked in the context of UWM\u2019s library eBook offerings and can be answered with straightforward facts about required software."
+    }
+  },
+  {
+    "question": "Do you have book or reading lists?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.85,
+      "explanation": "The question asks specifically about UWM library resources (book or reading lists), which can be answered with straightforward facts about available UWM services."
+    }
+  },
+  {
+    "question": "How do I get help with research?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_AI_AGENT_POTENTIAL",
+      "confidence": 0.85,
+      "explanation": "This question asks a UWM student how to access research help through campus library services and would benefit from detailed, step-by-step guidance using UWM-specific resources rather than a single factual answer."
+    }
+  },
+  {
+    "question": "Where are the collections of Fairy Tales?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "The question asks for a specific location of fairy tale collections within the UWM library system; it requires straightforward, factual UWM\u2010specific information without strategic planning or AI reasoning."
+    }
+  },
+  {
+    "question": "Do you have books of poetry for children?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.9,
+      "explanation": "The question asks for a straightforward fact about UWM Library\u2019s collection (whether they have children\u2019s poetry books), which can be answered directly from the catalog without strategic planning."
+    }
+  },
+  {
+    "question": "Can you help me find autobiographies and biographies for students in grades 1-3?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_AI_AGENT_POTENTIAL",
+      "confidence": 0.8,
+      "explanation": "The question asks for curated UWM library resources (autobiographies and biographies suitable for grades 1\u20133), which benefits from research strategies and tailored recommendations rather than a single factual policy answer."
+    }
+  },
+  {
+    "question": "Can I check out a laptop or other equipment?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.9,
+      "explanation": "This question asks about UWM\u2019s specific equipment checkout policy, which has a straightforward factual answer based on library procedures."
+    }
+  },
+  {
+    "question": "What books and movies do I have checked out?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "This question requires a straightforward fact retrieval from the user\u2019s UWM library account (which items are checked out) without need for strategic planning or extensive AI assistance."
+    }
+  },
+  {
+    "question": "Is there financial support for UWM authors to publish articles on open access?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.95,
+      "explanation": "This question asks about a specific UWM policy (financial support for open access publishing), which has a definitive answer (the UWM Open Access Publishing Fund) and does not require extended strategic planning."
+    }
+  },
+  {
+    "question": "How can I tell if an ebook restricts the number of users?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.88,
+      "explanation": "This question asks for a straightforward fact about UWM\u2019s e-book records/licensing information (how to view user restrictions in the library catalog or platform) without requiring broader research strategy or multi-step planning."
+    }
+  },
+  {
+    "question": "How do I find articles?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_AI_AGENT_POTENTIAL",
+      "confidence": 0.9,
+      "explanation": "The question asks UWM students how to locate articles using UWM library resources and would benefit from a guided research strategy rather than a single factual answer."
+    }
+  },
+  {
+    "question": "Who do I contact about reserving library event spaces or reporting issues in the building?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.9,
+      "explanation": "This question asks for specific UWM Library contact information (who to contact for space reservations or building issues), which is a straightforward factual answer from UWM policies/resources."
+    }
+  },
+  {
+    "question": "How do I check out books?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.95,
+      "explanation": "This question asks for a straightforward UWM library procedure (checking out books) and can be answered with a specific factual response from UWM policies."
+    }
+  },
+  {
+    "question": "Can I take a tour of the library?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "Asking about UWM library tour availability is a straightforward question about a specific service, answered by providing factual information from UWM library policies or schedules."
+    }
+  },
+  {
+    "question": "Where can I check out music materials?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.9,
+      "explanation": "The question asks for a specific fact about UWM library services (where to check out music materials), which can be answered directly from UWM library information without complex planning or research strategy."
+    }
+  },
+  {
+    "question": "What is exigence? How do I determine what it is?",
+    "classification": {
+      "category": "GENERAL_QA",
+      "confidence": 0.9,
+      "explanation": "The question asks for the definition and identification of a general rhetorical concept (\u2018exigence\u2019) and is not tied to UWM-specific policies or resources."
+    }
+  },
+  {
+    "question": "How can I listen to music in the library?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.9,
+      "explanation": "The question asks about UWM library policy on listening to music, a straightforward fact-based query requiring a single definitive answer from UWM resources without needing AI-driven planning."
+    }
+  },
+  {
+    "question": "What is plagiarism?",
+    "classification": {
+      "category": "GENERAL_QA",
+      "confidence": 0.9,
+      "explanation": "The question \u2018What is plagiarism?\u2019 is a general academic question about a common concept and does not require UWM-specific knowledge or resources."
+    }
+  },
+  {
+    "question": "What does it mean if a book is on reserve? How do I access reserve materials?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.85,
+      "explanation": "The question asks for straightforward UWM library policy and procedures about reserve materials, requiring a factual answer without strategic planning."
+    }
+  },
+  {
+    "question": "What is a Panther Card, and how do I get one?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "This is a straightforward UWM-specific question with definitive facts about the Panther Card and the application process."
+    }
+  },
+  {
+    "question": "Where can I find a quiet study space?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "The question asks for specific UWM locations for quiet study spaces, which can be answered with straightforward facts about UWM library and campus facilities."
+    }
+  },
+  {
+    "question": "Why am I being asked to pay for this content? I found it using the library a database.",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "This question asks about a specific UWM library licensing issue and can be answered by citing UWM library access policies without needing complex research strategies."
+    }
+  },
+  {
+    "question": "Help! I can't find sources on my topic",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_AI_AGENT_POTENTIAL",
+      "confidence": 0.9,
+      "explanation": "The question comes from a UWM student needing help finding sources using UWM library resources, requiring research strategy rather than a simple factual answer."
+    }
+  },
+  {
+    "question": "Are there any K-12 books about math and science that are not textbooks?",
+    "classification": {
+      "category": "GENERAL_QA",
+      "confidence": 0.9,
+      "explanation": "The question asks generally about K\u201312 math and science books and does not reference any UWM-specific resources, policies, or processes, so it falls under general non-University content."
+    }
+  },
+  {
+    "question": "How do get books as a distance or online student?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.9,
+      "explanation": "This question asks about a specific UWM library service procedure (distance/online student book access) that can be answered with established factual steps without deeper strategic planning."
+    }
+  },
+  {
+    "question": "What should I know before selecting an ebook as a course text?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_AI_AGENT_POTENTIAL",
+      "confidence": 0.8,
+      "explanation": "This question asks for strategic guidance on selecting an e-book for UWM courses, drawing on UWM-specific licensing, access, and technical considerations, so it benefits from AI-driven step-by-step advice rather than a single factual answer."
+    }
+  },
+  {
+    "question": "If I get a \"turnaway\" for an ebook that has a limited number of copies, will I be placed on a waitlist for the title?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "This question asks for a specific UWM library policy about ebook access and waitlisting, which can be answered with a definitive fact from UWM resources without requiring broader research or strategic planning."
+    }
+  },
+  {
+    "question": "How do I renew books?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "Renewing books is a straightforward UWM library procedure with a single definitive answer in the library\u2019s policy or catalog system."
+    }
+  },
+  {
+    "question": "Do you have graphic novels?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "This asks about a specific UWM library collection item, which can be answered with straightforward factual information (whether the library holds graphic novels). No complex strategy or AI planning is needed."
+    }
+  },
+  {
+    "question": "What is a \"research brief\" for English 102 and how do I format it?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "This question asks for UWM-specific assignment details and formatting guidelines that have a single definitive answer from course or library resources, requiring no extended strategic planning."
+    }
+  },
+  {
+    "question": "How can I find music scores and sheet music?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.82,
+      "explanation": "The question asks for UWM library\u2013specific procedures to locate music scores and sheet music, which can be answered with straightforward facts about UWM catalog and holdings."
+    }
+  },
+  {
+    "question": "Do you have board books or big books for children?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.9,
+      "explanation": "The question asks about specific holdings in the UWM library (board books and big books), which is UWM-specific information that can be answered with a straightforward factual response."
+    }
+  },
+  {
+    "question": "Does the library have books for UWM courses?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "This question asks a straightforward, factual question about UWM library holdings and can be answered directly from UWM policy or catalog without strategic planning."
+    }
+  },
+  {
+    "question": "How do I sign in to my library account?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.95,
+      "explanation": "The question asks for a straightforward, factual procedure specific to UWM library accounts and does not require strategic planning or external research."
+    }
+  },
+  {
+    "question": "What computers are available in the library?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.9,
+      "explanation": "The question asks for a straightforward list of computers available in the UWM library, which is a single factual answer from UWM resources and does not require strategic planning or AI assistance."
+    }
+  },
+  {
+    "question": "Can I place an item on hold?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.85,
+      "explanation": "This is a straightforward UWM library policy question with a definitive answer about placing holds, requiring no additional strategic planning."
+    }
+  },
+  {
+    "question": "How do I extend the embargo period of my dissertation/thesis?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "This question asks for a specific UWM process (embargo extension) that has a definitive answer in UWM policies/forms, needing only straightforward factual information."
+    }
+  },
+  {
+    "question": "How do I find the New York Times?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.9,
+      "explanation": "This is a straightforward UWM library resource question about accessing the New York Times through UWM\u2019s subscriptions, requiring a factual answer rather than a complex strategy."
+    }
+  },
+  {
+    "question": "What is a database?",
+    "classification": {
+      "category": "GENERAL_QA",
+      "confidence": 0.9,
+      "explanation": "This is a general question about databases and does not involve any University of Wisconsin\u2013Milwaukee\u2013specific information or resources."
+    }
+  },
+  {
+    "question": "I found an article in a database and it doesn't have full text. How do I get it?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.9,
+      "explanation": "This question asks for a straightforward UWM library procedure (e.g., using the link resolver or interlibrary loan) and can be answered with definitive facts from UWM services without broader planning."
+    }
+  },
+  {
+    "question": "Where is the library?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "The question asks for a straightforward fact about the location of UWM\u2019s library, which can be answered directly from campus information without strategic planning."
+    }
+  },
+  {
+    "question": "What restrictions are there on placing a purchase request for an ebook to use in a course?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "This question asks for specific UWM library policy details on ebook purchase requests for courses, which is a straightforward fact-based query about school resources and does not require broader research strategy or AI planning."
+    }
+  },
+  {
+    "question": "Do we have any books on careers or job research?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "This is a straightforward, factual question about UWM library holdings and can be answered directly from the catalog without additional strategy or reasoning."
+    }
+  },
+  {
+    "question": "Which children's books use different vernacular or dialects? (AAVE, Southern, Eastern, etc)?",
+    "classification": {
+      "category": "GENERAL_QA",
+      "confidence": 0.92,
+      "explanation": "This is a general question about children\u2019s literature and not specific to UWM policies, resources, or procedures."
+    }
+  },
+  {
+    "question": "Where are the PRAXIS books?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.9,
+      "explanation": "The question asks for the specific location of PRAXIS books within UWM library resources, which can be answered with a straightforward, factual response based on UWM\u2019s catalog and shelving system."
+    }
+  },
+  {
+    "question": "Where can I ask questions about finding music materials?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "The question asks for a specific UWM library service (where to ask about music materials), which can be answered with a straightforward fact about UWM\u2019s music librarian or library help services."
+    }
+  },
+  {
+    "question": "How can I find music recordings?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_AI_AGENT_POTENTIAL",
+      "confidence": 0.92,
+      "explanation": "This question comes from a UWM student seeking guidance on using UWM library resources (catalog, databases, streaming services), benefiting from step-by-step strategies rather than a single factual answer."
+    }
+  },
+  {
+    "question": "Where is the Music Library?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.95,
+      "explanation": "The question asks for a specific factual detail about a UWM campus location that can be answered directly without strategic planning or broader research guidance."
+    }
+  },
+  {
+    "question": "Where can I find books geared towards late-kindergarten, early first grade children?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.87,
+      "explanation": "This question asks for the specific location of children\u2019s books within UWM libraries, which can be answered with a straightforward fact (e.g. juvenile section/call numbers) and doesn\u2019t require broader strategy or planning."
+    }
+  },
+  {
+    "question": "Where can I find music course reserves?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.87,
+      "explanation": "This asks for a specific, factual location of music course reserves within UWM\u2019s library system, requiring a straightforward answer from UWM resources or policies."
+    }
+  },
+  {
+    "question": "Do you have K-12 Textbooks?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "This question asks about UWM library holdings\u2014a straightforward factual query about whether the library carries K\u201312 textbooks, without need for strategic planning or extended AI assistance."
+    }
+  },
+  {
+    "question": "How do I link to library resources in Canvas?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_AI_AGENT_POTENTIAL",
+      "confidence": 0.92,
+      "explanation": "Linking UWM library resources in Canvas requires step-by-step guidance using UWM-specific tools and policies, benefiting from AI-generated procedural assistance rather than a single fact."
+    }
+  },
+  {
+    "question": "How do I add streaming videos in Canvas?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "This question is specific to UWM\u2019s Canvas instance and can be answered with straightforward, factual instructions from UWM\u2019s Canvas documentation without additional strategic planning."
+    }
+  },
+  {
+    "question": "How do I determine who the stakeholders are for my issue?",
+    "classification": {
+      "category": "GENERAL_QA",
+      "confidence": 0.94,
+      "explanation": "The question is a general guidance question on identifying stakeholders and does not require any UWM-specific resources or policies."
+    }
+  },
+  {
+    "question": "What is a keyword?",
+    "classification": {
+      "category": "GENERAL_QA",
+      "confidence": 0.85,
+      "explanation": "The question asks for a general definition of \u2018keyword\u2019 and does not require any UWM-specific information or resources."
+    }
+  },
+  {
+    "question": "Can I reserve an ebook for my class to ensure only my students can use it?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "This question is about a specific UWM library policy regarding e\u2010book reservation, which can be answered with a straightforward factual response without requiring in-depth strategy or external AI planning."
+    }
+  },
+  {
+    "question": "How much of an ebook can I download?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.9,
+      "explanation": "This question asks for a specific UWM library policy about e-book download limits and can be answered with a definitive policy statement without additional reasoning or planning."
+    }
+  },
+  {
+    "question": "What are the diversity and accessibility resources at the library?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.9,
+      "explanation": "Asking for a list of UWM library\u2019s diversity and accessibility resources can be answered directly with definitive facts from UWM library guides and policies."
+    }
+  },
+  {
+    "question": "Are there printers in the library?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "This is a straightforward factual question about UWM library facilities that can be answered with a simple fact without requiring strategic planning or extensive reasoning."
+    }
+  },
+  {
+    "question": "How do I get help for English 102?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.9,
+      "explanation": "The question asks for UWM-specific help resources (e.g., writing center, tutoring) and can be answered with straightforward factual information about campus services."
+    }
+  },
+  {
+    "question": "How do I find books?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_AI_AGENT_POTENTIAL",
+      "confidence": 0.87,
+      "explanation": "This UWM student question asks for a how-to guide on finding books in UWM\u2019s library system, which requires tailored step-by-step assistance using UWM catalog tools rather than a single factual response."
+    }
+  },
+  {
+    "question": "How do I find sources for an Information Cycle project in English 102?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_AI_AGENT_POTENTIAL",
+      "confidence": 0.8,
+      "explanation": "The question asks UWM students how to develop a research strategy using campus resources (e.g., library databases) for an English 102 assignment, which benefits from AI\u2010driven guidance rather than a single fact."
+    }
+  },
+  {
+    "question": "Is WiFi access available in the library?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.9,
+      "explanation": "This is a direct factual question about UWM library services that can be answered with a simple fact from UWM policies or resources."
+    }
+  },
+  {
+    "question": "How do I connect from off-campus?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "This is a straightforward UWM-specific procedural question with a single definitive answer (off-campus login instructions). It doesn\u2019t require broader research strategy or complex planning."
+    }
+  },
+  {
+    "question": "What is a DOI number?",
+    "classification": {
+      "category": "GENERAL_QA",
+      "confidence": 0.9,
+      "explanation": "Asking for the definition of a DOI number is a general academic question not tied to UWM-specific policies or resources."
+    }
+  },
+  {
+    "question": "Who may use the library?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.92,
+      "explanation": "This is a direct question about UWM library policy that can be answered with a straightforward factual response from university library guidelines."
+    }
+  },
+  {
+    "question": "What is MINDS@UW Milwaukee?",
+    "classification": {
+      "category": "SCHOOL_SPECIFIC_WITH_FACT_ONLY",
+      "confidence": 0.9,
+      "explanation": "This asks for a specific UWM resource definition (the institutional repository), which is a straightforward factual answer from UWM policies/resources."
+    }
+  }
+]
